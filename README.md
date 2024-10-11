@@ -20,7 +20,7 @@ The project contains the following main files:
 ## Installation
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/DNA-Double-Helix-Visualization.git
+   git clone https://github.com/Kevin01the1novator/double_helix_sim.git
    ```
 2. Open MATLAB and set the current directory to the location of the cloned repository.
 
@@ -83,7 +83,7 @@ Running the example code in the Usage section will:
 2. Open another figure window displaying the details of the sequence, such as the sequence name, base composition, GC content, and a brief description of the sequence characteristics.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. 
 
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request with your changes. For significant changes, please open an issue to discuss your ideas before contributing.
