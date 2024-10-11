@@ -89,4 +89,5 @@ This project is licensed under the MIT License.
 Contributions are welcome! Please fork the repository and submit a pull request with your changes. For significant changes, please open an issue to discuss your ideas before contributing.
 
 ## Contact
-For questions, feel free to reach out at your-email@example.com.
+For questions, feel free to reach out at khoile0251@gmail.com
+
